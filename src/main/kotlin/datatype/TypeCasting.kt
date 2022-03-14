@@ -13,9 +13,9 @@ toChar()
  */
 
 
-fun main(){
+fun main() {
     // 정수형 -> 실수형
-    var a:Int = 54321
-    var b:Long = a.toLong()
+    var a: Int = 54321
+    var b: Long = a.toLong()
 
 }

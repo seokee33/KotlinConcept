@@ -5,7 +5,7 @@ val : 선언시에만 초기화 가능 중간에 값을 변경할 수 없음
  */
 
 
-fun main(){
+fun main() {
 
     //var nullValue:Int? = null //nullable 변수
 
@@ -23,8 +23,8 @@ fun main(){
     println("fNum : $fNum")
 
     //문자형
-    var charValue:Char = 'a'
-    var koreanCharValue:Char = '가'
+    var charValue: Char = 'a'
+    var koreanCharValue: Char = '가'
     println("\n문자형")
     println("charValue : $charValue")
     println("koreanCharValue : $koreanCharValue")
@@ -40,8 +40,8 @@ fun main(){
     println("multiLineStringValue : $multiLineStringValue")
 
     //boolean
-    var booleanValueTrue:Boolean = true
-    var booleanValueFalse:Boolean = false
+    var booleanValueTrue: Boolean = true
+    var booleanValueFalse: Boolean = false
     println("\nboolean")
     println("booleanValueTrue : $booleanValueTrue")
     println("booleanValueFalse : $booleanValueFalse")

@@ -1,6 +1,6 @@
 package datatype
 
-fun main(){
+fun main() {
     var iNum = 1234
     var lNum = 1234L
 
